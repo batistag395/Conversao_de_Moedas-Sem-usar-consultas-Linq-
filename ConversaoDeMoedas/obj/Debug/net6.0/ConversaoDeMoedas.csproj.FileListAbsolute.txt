@@ -1,0 +1,15 @@
+C:\Users\gorde\Desktop\treinamento pericles\ConversaoDeMoedas\ConversaoDeMoedas\bin\Debug\net6.0\ConversaoDeMoedas.exe
+C:\Users\gorde\Desktop\treinamento pericles\ConversaoDeMoedas\ConversaoDeMoedas\bin\Debug\net6.0\ConversaoDeMoedas.deps.json
+C:\Users\gorde\Desktop\treinamento pericles\ConversaoDeMoedas\ConversaoDeMoedas\bin\Debug\net6.0\ConversaoDeMoedas.runtimeconfig.json
+C:\Users\gorde\Desktop\treinamento pericles\ConversaoDeMoedas\ConversaoDeMoedas\bin\Debug\net6.0\ConversaoDeMoedas.dll
+C:\Users\gorde\Desktop\treinamento pericles\ConversaoDeMoedas\ConversaoDeMoedas\bin\Debug\net6.0\ConversaoDeMoedas.pdb
+C:\Users\gorde\Desktop\treinamento pericles\ConversaoDeMoedas\ConversaoDeMoedas\obj\Debug\net6.0\ConversaoDeMoedas.csproj.AssemblyReference.cache
+C:\Users\gorde\Desktop\treinamento pericles\ConversaoDeMoedas\ConversaoDeMoedas\obj\Debug\net6.0\ConversaoDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorde\Desktop\treinamento pericles\ConversaoDeMoedas\ConversaoDeMoedas\obj\Debug\net6.0\ConversaoDeMoedas.AssemblyInfoInputs.cache
+C:\Users\gorde\Desktop\treinamento pericles\ConversaoDeMoedas\ConversaoDeMoedas\obj\Debug\net6.0\ConversaoDeMoedas.AssemblyInfo.cs
+C:\Users\gorde\Desktop\treinamento pericles\ConversaoDeMoedas\ConversaoDeMoedas\obj\Debug\net6.0\ConversaoDeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\gorde\Desktop\treinamento pericles\ConversaoDeMoedas\ConversaoDeMoedas\obj\Debug\net6.0\ConversaoDeMoedas.dll
+C:\Users\gorde\Desktop\treinamento pericles\ConversaoDeMoedas\ConversaoDeMoedas\obj\Debug\net6.0\refint\ConversaoDeMoedas.dll
+C:\Users\gorde\Desktop\treinamento pericles\ConversaoDeMoedas\ConversaoDeMoedas\obj\Debug\net6.0\ConversaoDeMoedas.pdb
+C:\Users\gorde\Desktop\treinamento pericles\ConversaoDeMoedas\ConversaoDeMoedas\obj\Debug\net6.0\ConversaoDeMoedas.genruntimeconfig.cache
+C:\Users\gorde\Desktop\treinamento pericles\ConversaoDeMoedas\ConversaoDeMoedas\obj\Debug\net6.0\ref\ConversaoDeMoedas.dll
