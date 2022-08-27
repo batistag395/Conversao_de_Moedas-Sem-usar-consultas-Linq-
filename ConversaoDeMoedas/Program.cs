@@ -4,7 +4,7 @@ Moedascs moedas;
 
 List<Moedascs> MoedasList = new List<Moedascs>();
 
-string[] text = System.IO.File.ReadAllLines(@"C:\Users\gorde\Desktop\Moeda\moedas.txt");
+string[] text = System.IO.File.ReadAllLines(@"C:\Users\gorde\Desktop\Conversao_de_Moedas-Sen-usar-consultas-Linq-\moedas.txt");
 
 foreach (string line in text)
 {
@@ -33,13 +33,11 @@ for (var i = 0; i < MoedasList.Count; i++)
 {
     if (nomeMoedaEntrada == MoedasList[i].Currency)
     {
-        for (var j = 0; j < MoedasList.Count; j++)
-        {
-            if (nomeMoedaDestino == MoedasList[j].Currency)
-            {
-                Console.WriteLine($"Valor total da conversão: {MoedasList[j].Currency} {((MoedasList[i].Rate / MoedasList[j].Rate) * valorMoedaOrigem).ToString("F2")}");
-            }
-
-        }
+        valorMoedaOrigem *= MoedasList[i].Rate;
+    }
+    if (nomeMoedaDestino == MoedasList[i].Currency)
+    {
+        valorMoedaOrigem /= MoedasList[i].Rate;
     }
 }
+Console.WriteLine($"Valor total da conversão: {nomeMoedaDestino} {(valorMoedaOrigem).ToString("F2")}");

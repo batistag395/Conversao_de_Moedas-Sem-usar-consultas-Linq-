@@ -1,0 +1,5 @@
+USD 5
+JPY 0.37
+EUR 6
+GBP 7
+BRL 1
