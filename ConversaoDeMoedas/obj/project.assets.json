@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gorde\\Desktop\\Conversao_de_Moedas-Sen-usar-consultas-Linq-\\ConversaoDeMoedas\\ConversaoDeMoedas.csproj",
+      "projectUniqueName": "C:\\Users\\gorde\\Desktop\\treinamento pericles\\ConversaoDeMoedas\\ConversaoDeMoedas\\ConversaoDeMoedas.csproj",
       "projectName": "ConversaoDeMoedas",
-      "projectPath": "C:\\Users\\gorde\\Desktop\\Conversao_de_Moedas-Sen-usar-consultas-Linq-\\ConversaoDeMoedas\\ConversaoDeMoedas.csproj",
+      "projectPath": "C:\\Users\\gorde\\Desktop\\treinamento pericles\\ConversaoDeMoedas\\ConversaoDeMoedas\\ConversaoDeMoedas.csproj",
       "packagesPath": "C:\\Users\\gorde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gorde\\Desktop\\Conversao_de_Moedas-Sen-usar-consultas-Linq-\\ConversaoDeMoedas\\obj\\",
+      "outputPath": "C:\\Users\\gorde\\Desktop\\treinamento pericles\\ConversaoDeMoedas\\ConversaoDeMoedas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gorde\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
